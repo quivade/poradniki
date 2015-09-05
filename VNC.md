@@ -1,7 +1,7 @@
 # Praca zdalna na serwerach Quivade
 Połączenie zdalne są możliwe z pomocą
 ssh [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) oraz
-VNC ([Virtual Network Computing](https://en.wikipedia.org/wiki/Virtual_Network_Computing).
+VNC ([Virtual Network Computing](https://en.wikipedia.org/wiki/Virtual_Network_Computing)).
 
 ## SSH
 Połączenie ssh pozwala przede wszystkim na prace w trybie tekstowym.
